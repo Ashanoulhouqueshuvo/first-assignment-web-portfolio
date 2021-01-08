@@ -7,11 +7,21 @@ body{
     margin-left: 5%;
     padding-left: 5%;
     
+    
 }
 .header img{
     width:100%;
 }
 
+.button {
+    border-radius: 5px;
+    background-color:yellowgreen;
+    color: whitesmoke;
+    width:30%;
+    text-align: center;
+    text-decoration:none;
+    
+}
     
 
 
